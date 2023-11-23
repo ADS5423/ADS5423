@@ -2,7 +2,7 @@
 
 # I Am JakeDev098
 
-A web pages, and hacks (for educational purposes)
+A web pages, and hacks developer (for educational purposes)
 
 <div align="auto" style="display: inline-block;">
     <h3 align="auto"></h1>
