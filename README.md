@@ -5,8 +5,8 @@
 A web pages, and hacks (for educational purposes)
 
 <div align="auto" style="display: inline-block;">
-    <h3 align="auto">Skills</h1>
-        <img src="https://skillicons.dev/icons?i=javascript,py,css,html,batch,lua,vscode&perline=3" />
+    <h3 align="auto"></h1>
+        <img src="https://skillicons.dev/icons?i=javascript,py,css,html,batch,lua,vscode&perline=4" />
 </div>
 
 <table>
