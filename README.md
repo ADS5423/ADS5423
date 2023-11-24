@@ -1,3 +1,4 @@
+
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Angits" src="https://avatars.githubusercontent.com/u/138416304?v=4">
 
 # I Am JakeDev098
@@ -6,7 +7,7 @@ A web pages, and hacks developer (for educational purposes)
 
 <div align="auto" style="display: inline-block;">
     <h3 align="auto"></h1>
-        <img src="https://skillicons.dev/icons?i=javascript,py,css,html,batch,lua,MS-DOS,vscode&perline=4" />
+        <img src="https://skillicons.dev/icons?i=javascript,py,css,html,lua,vscode&perline=4" />
 </div>
 
 <table>
