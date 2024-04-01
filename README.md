@@ -3,11 +3,11 @@
 
 # I Am JakeDev098
 
-A Python, HTML, & Lua developer (<15)
+A Python, HTML, & Lua developer (<15 years old)
 
 <div align="auto" style="display: inline-block;">
     <h3 align="auto"></h1>
-        <img src="https://skillicons.dev/icons?i=py,html,lua,vscode&perline=3" />
+        <img src="https://skillicons.dev/icons?i=py,html,lua,vscode&perline=4" />
 </div>
 
 <table>
