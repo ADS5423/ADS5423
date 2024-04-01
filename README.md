@@ -1,13 +1,13 @@
 
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="JakeDev098" src="https://avatars.githubusercontent.com/u/138416304?v=6">
 
-# I Am G047
+# I Am JakeDev098
 
-A web pages, and hacks developer (for educational purposes)
+A Python, HTML, & Lua developer (<15)
 
 <div align="auto" style="display: inline-block;">
     <h3 align="auto"></h1>
-        <img src="https://skillicons.dev/icons?i=javascript,py,css,html,lua,vscode&perline=6" />
+        <img src="https://skillicons.dev/icons?i=py,html,lua,vscode&perline=3" />
 </div>
 
 <table>
