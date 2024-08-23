@@ -7,7 +7,7 @@ A Python, HTML, & Lua developer (minor of 15 years old)
 
 <div align="auto" style="display: inline-block;">
     <h3 align="auto"></h1>
-        <img src="https://skillicons.dev/icons?i=py,html,lua&perline=3">
+        <img style="margin: 0 10px" src="https://skillicons.dev/icons?i=py,html,lua&perline=3">
 </div>
 
 <table>
